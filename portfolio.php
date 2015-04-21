@@ -3,23 +3,23 @@ $pageTitle = "Jerome Pratt | Developer - Portfolio";
 $section = "portfolio";
 include 'inc/header.php';?>
 
-<div class="row">
+<div class="">
   <div id= "gallery">
-    <div class="portfolio col m4">
-      <div class="inner-box">
-      <a href="http://fhellow.herokuapp.com">
-        <img class="portfolio-image" src="img/fhellow.png" alt="">
-        <p>My final project fhellow - a social network for freelancers.</p>
-      </a>
+      <div class="portfolio col m4">
+        <div class="inner-box">
+        <a href="http://fhellow.herokuapp.com">
+          <img class="portfolio-image" src="img/fhellow.png" alt="">
+          <p>My final project fhellow - a social network for freelancers.</p>
+        </a>
+      </div>
     </div>
-    </div>
-    <div class="portfolio col m4">
-      <div class="inner-box">
-      <a href="http://instaharam.herokuapp.com">
-        <img class="portfolio-image" src="img/instaharam.png" alt="">
-        <p>A clone of the popular picture-sharing site Instagram</p>
-      </a>
-    </div>
+      <div class="portfolio col m4">
+        <div class="inner-box">
+        <a href="http://instaharam.herokuapp.com">
+          <img class="portfolio-image" src="img/instaharam.png" alt="">
+          <p>A clone of the popular picture-sharing site Instagram</p>
+        </a>
+      </div>
     </div>
     <div class="portfolio col m4">
       <div class="inner-box">
