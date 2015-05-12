@@ -64,7 +64,7 @@ li.nav-link a {
 }
 
 li.nav-link a:hover {
-  color: red;
+  color: #8C341F;
 }
 
 /** Brand logos**/
@@ -102,6 +102,7 @@ a#brand-logo {
 img.portfolio-image {
   height: 400px;
   border-radius: 5%;
+  border: 5px solid black;
 }
 
 .portfolio {
