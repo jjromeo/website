@@ -7,9 +7,7 @@ include 'inc/header.php';?>
   <div class="row">
     <div class = "col m6 offset-m3 section">
     <div id="wrapper">
-      <section>
-     </section>
-      <footer>        
+        <footer>        
         <p>&copy; 2014 Jerome Pratt.</p>
       </footer>
       </div>

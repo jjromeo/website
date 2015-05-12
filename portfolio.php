@@ -3,7 +3,6 @@ $pageTitle = "Jerome Pratt | Developer - Portfolio";
 $section = "portfolio";
 include 'inc/header.php';?>
 
-<div class="">
   <div id= "gallery">
       <div class="portfolio col m4">
         <div class="inner-box">
@@ -30,5 +29,4 @@ include 'inc/header.php';?>
       </div>
     </div>
   </div>
-</div>
 <?php include 'inc/footer.php';?>
